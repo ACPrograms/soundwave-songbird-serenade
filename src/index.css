@@ -1,4 +1,3 @@
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -160,7 +159,7 @@
   }
   
   .custom-scrollbar {
-    @apply scrollbar-thin scrollbar-thumb-border scrollbar-track-transparent;
+    @apply scrollbar-thin scrollbar-thumb-border/20 scrollbar-track-transparent;
   }
   
   .sidebar-overlay {
