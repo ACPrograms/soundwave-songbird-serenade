@@ -93,7 +93,7 @@
   }
   
   .progress-bar {
-    @apply h-1.5 bg-white/20 rounded-full relative overflow-hidden cursor-pointer group;
+    @apply h-1.5 bg-white/20 rounded-full relative overflow-hidden cursor-pointer;
   }
   
   .progress-bar-fill {
